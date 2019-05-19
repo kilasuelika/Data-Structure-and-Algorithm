@@ -41,5 +41,11 @@
     <ClInclude Include="Algorithm\Util.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Algorithm\Sovling\Divid.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Algorithm\Sovling\Test.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

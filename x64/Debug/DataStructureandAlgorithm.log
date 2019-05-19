@@ -1,2 +1,3 @@
 ﻿  main.cpp
+E:\source\Data-Structure-and-Algorithm\Algorithm\Sovling\Divid.hpp(125): warning C4715: 'inf_index<int>': not all control paths return a value
   DataStructureandAlgorithm.vcxproj -> E:\source\Data-Structure-and-Algorithm\x64\Debug\DataStructureandAlgorithm.exe

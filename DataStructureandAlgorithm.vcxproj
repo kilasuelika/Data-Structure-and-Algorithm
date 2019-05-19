@@ -108,6 +108,8 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Algorithm\List_OP.hpp" />
+    <ClInclude Include="Algorithm\Sovling\Divid.hpp" />
+    <ClInclude Include="Algorithm\Sovling\Test.hpp" />
     <ClInclude Include="Algorithm\Test.hpp" />
     <ClInclude Include="Algorithm\Util.hpp" />
     <ClInclude Include="DataStructure\LinearList\LinearList.h" />

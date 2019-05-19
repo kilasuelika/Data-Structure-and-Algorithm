@@ -20,6 +20,7 @@ vector<T> merge_ordered_list(vector<T>& v1, vector<T>& v2)
 	size_t p1, p2, p3;
 	p1 = p2 = p3 = 0;
 
+	// Note stopping condition. 1. Internal. 2. Boundary.
 	while (p3 < n) {
 		if ((p1 != n1 && p2 != n2 && v1[p1] > v2[p2]) ||
 			(p1 == n1)) {

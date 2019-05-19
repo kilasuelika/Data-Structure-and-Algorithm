@@ -1,3 +1,5 @@
+#ifndef _ALG_UTIL_
+#define _ALG_UTIL_
 #include<vector>
 #include<iostream>
 #include<string>
@@ -10,5 +12,7 @@ void print_vec(const vector<T>& v,string sep=" ") {
 		cout << v[i]<<sep;
 	};
 
-	cout << v[v.size()-1] << endl;
+	cout << v[v.size()-1];
 }
+
+#endif
