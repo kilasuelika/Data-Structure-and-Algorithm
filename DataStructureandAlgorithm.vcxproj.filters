@@ -32,5 +32,14 @@
     <ClInclude Include="DataStructure\Stack\Stack.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Algorithm\List_OP.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Algorithm\Test.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Algorithm\Util.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
